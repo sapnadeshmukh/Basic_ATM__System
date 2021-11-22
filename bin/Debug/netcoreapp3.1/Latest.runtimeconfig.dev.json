@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sapna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sapna\\.nuget\\packages"
+    ]
+  }
+}
